@@ -7,7 +7,7 @@ body {
     display: flex;
     flex-direction: column;
     font-family: 'Outfit', sans-serif;
-    font-size: 15px;
+    font-size: 0.9rem;
     text-align: center;
     background-color: hsl(212, 45%, 89%);
 }
@@ -52,14 +52,13 @@ a {
 
 .QrTitle {
     display: flex;
-    font-size: 15px;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
-    font-size: 24px;
+    font-size: 1.5rem;
 }
 
 .description {
     display: flex;
     color: hsl(220, 15%, 55%);
-    font-size: 16px;
+    font-size: 1rem;
 }
